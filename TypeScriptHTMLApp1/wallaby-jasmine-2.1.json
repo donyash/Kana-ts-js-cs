@@ -1,0 +1,14 @@
+{
+  "files": [
+    "style/calculator.css",
+    {
+      "instrument": false,
+      "pattern": "Scripts/jquery-2.2.3.js"
+    },
+    "src/*.js","*.js", "*.ts"
+  ],
+  "tests": [
+    "Scripts/JavaScriptSpecs/*.js", "Scripts/JavaScriptSpecs/*.ts"
+  ],
+  "testFramework": "jasmine@2.4.1"
+}
